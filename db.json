@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "buy milk",
+      "{reminder}": true,
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "buy coffee",
+      "{reminder}": true,
+      "reminder": true
+    },
+    {
+      "text": "asdfasd",
+      "day": "asdfads",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
